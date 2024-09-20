@@ -1,0 +1,13 @@
+name = "MyAwesomePackage"
+uuid = "adf0244a-3b9c-40e2-b8d2-91d8118b1b6b"
+authors = ["Key5n <k.nogami.472@stn.nitech.ac.jp>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+DataFrames = "1.6.1"
+julia = "1.10.3"
+LinearAlgebra = "1.10.3"
